@@ -35,6 +35,7 @@ End the Program.
 
 ## Program:
 
+```
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: premji p
@@ -74,6 +75,7 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 
+```
 
 ## Output:
 ### DATA.HEAD() :
